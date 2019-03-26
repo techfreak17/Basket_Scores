@@ -1,0 +1,113 @@
+﻿  checkType.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.h(7): error C2061: erro de sintaxe: identificador 'MapValue'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.h(7): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.h(10): error C2146: erro de sintaxe: ')' ausente antes do identificador 'value'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.h(10): error C2061: erro de sintaxe: identificador 'value'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.h(10): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.h(10): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2146: erro de sintaxe: ')' ausente antes do identificador 'value'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2081: 'MapValue': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2061: erro de sintaxe: identificador 'value'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2143: erro de sintaxe: ')' ausente antes de '*'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2081: 'MapValue': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2143: erro de sintaxe: '{' ausente antes de '*'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2143: erro de sintaxe: ')' ausente antes de '*'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2081: 'MapValue': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2143: erro de sintaxe: '{' ausente antes de '*'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(58): warning C4013: 'mapPut' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(58): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(58): warning C4024: 'createToValue': tipos diferentes para parâmetro formal e real 1
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(62): warning C4013: 'free' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(56): warning C4047: 'inicializando': 'char' difere em níveis de indireção de 'char *'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(68): warning C4013: 'malloc' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(68): warning C4312: 'conversão de tipo': conversão de 'int' para 'PtValue' de tamanho maior
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(80): warning C4013: 'strcpy_s' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.c(111): warning C4013: 'mapGet' indefinido; assumindo extern retornando int
+  cluster.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(31): warning C4013: 'malloc' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(31): warning C4312: 'conversão de tipo': conversão de 'int' para 'PtCluster' de tamanho maior
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(49): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(68): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(68): warning C4013: 'abs' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(76): warning C4013: 'srand' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(79): warning C4013: 'rand' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(86): warning C4013: 'sqrt' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(86): warning C4013: 'pow' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(135): warning C4047: 'função': 'int *' difere em níveis de indireção de 'int'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(135): warning C4024: 'listSize': tipos diferentes para parâmetro formal e real 2
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(147): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(148): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(149): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(150): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(151): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\cluster.c(176): warning C4013: 'printf' indefinido; assumindo extern retornando int
+  listArrayList.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\listarraylist.c(73): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\listarraylist.c(102): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\listarraylist.c(107): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\listarraylist.c(131): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\listarraylist.c(155): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\listarraylist.c(225): warning C4018: '<': incompatibilidade de signed/unsigned
+  listElem.c
+  main.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(56): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[21]'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(56): warning C4024: 'importFromFile': tipos diferentes para parâmetro formal e real 1
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(56): warning C4024: 'importFromFile': tipos diferentes para parâmetro formal e real 2
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(156): warning C4047: 'função': 'int' difere em níveis de indireção de 'PtList'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(156): warning C4024: 'exit': tipos diferentes para parâmetro formal e real 1
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(47): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'char **'
+  c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(47): note: esse argumento é usado por um especificador de conversão
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(47): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'size_t'
+  c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(47): note: esse argumento é usado como um tamanho do buffer
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(52): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'char **'
+  c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(52): note: esse argumento é usado por um especificador de conversão
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(52): warning C4477: 'scanf_s': a cadeia de formato '%[^\n]' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'size_t'
+  c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\main.c(52): note: esse argumento é usado como um tamanho do buffer
+  mapArrayList.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.h(15): error C2146: erro de sintaxe: ')' ausente antes do identificador 'map'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.h(15): error C2061: erro de sintaxe: identificador 'map'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.h(15): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\checktype.h(15): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\maparraylist.c(28): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\maparraylist.c(247): warning C4018: '<': incompatibilidade de signed/unsigned
+  mapElem.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2146: erro de sintaxe: ')' ausente antes do identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2081: 'MapKey': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2061: erro de sintaxe: identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2059: erro de sintaxe: ','
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(19): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2146: erro de sintaxe: ')' ausente antes do identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2081: 'MapKey': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2061: erro de sintaxe: identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2059: erro de sintaxe: ','
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(21): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2146: erro de sintaxe: ')' ausente antes do identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2081: 'MapKey': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2061: erro de sintaxe: identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2059: erro de sintaxe: ','
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(23): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(25): error C2146: erro de sintaxe: ')' ausente antes do identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(25): error C2081: 'MapKey': nome inválido na lista de parâmetros formais
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(25): error C2061: erro de sintaxe: identificador 'key'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(25): error C2059: erro de sintaxe: ';'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\map.h(25): error C2059: erro de sintaxe: ')'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\mapelem.c(6): warning C4013: 'printf' indefinido; assumindo extern retornando int
+  player.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\player.c(34): warning C4013: 'strcpy_s' indefinido; assumindo extern retornando int
+  program.c
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(43): warning C4013: 'strlen' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(55): warning C4013: 'strcpy_s' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(52): warning C4047: 'inicializando': 'char' difere em níveis de indireção de 'char [1]'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(155): warning C4013: 'strcmp' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(368): warning C4244: 'função': conversão de 'double' para 'float', possível perda de dados
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(379): warning C4013: 'strtok_s' indefinido; assumindo extern retornando int
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(382): warning C4047: '=': 'char *' difere em níveis de indireção de 'int'
+c:\users\césar fontinha\source\repos\atad_projectv2\atad_projectv2\program.c(379): warning C4047: 'inicializando': 'char *' difere em níveis de indireção de 'int'
+  Gerando Código...
